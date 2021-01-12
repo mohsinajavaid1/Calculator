@@ -1,0 +1,7 @@
+include ':calculator-debug'
+include ':Addition-debug'
+include ':calculator'
+include ':Addition'
+include ':Multiplication'
+include ':app'
+rootProject.name = "My Application"
